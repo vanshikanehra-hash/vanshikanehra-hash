@@ -18,11 +18,12 @@ Right now I’m learning by doing — building real tools, understanding codebas
 
 ## Skills & Tools
 
-languages  = Python
-ml libs    = NumPy, Pandas, scikit-learn  
-ai tools   = LangChain, Groq API, Streamlit
-currently learning = PyTorch,  Open Source workflows
-tools      = Git, GitHub, VS Code, Jupyter
+```python
+languages  = ["Python"]
+ml_libs    = ["NumPy", "Pandas", "scikit-learn"]
+ai_tools   = ["LangChain", "Groq API", "Streamlit"]
+tools      = ["Git", "GitHub", "VS Code", "Jupyter"]
+currently_learning = ["PyTorch", "Open Source workflows"]
 
 ## Projects
 
