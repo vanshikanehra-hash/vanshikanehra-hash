@@ -10,22 +10,27 @@ Right now I’m learning by doing — building real tools, understanding codebas
 
 ## Currently
 
-- 🧠 Studying **Agentic AI** at IIT Mandi (Summer 2026)
-- 🔨 Building a **Dataset Quality Checker** — an open-source Python CLI tool
-- 📖 Learning how to contribute to projects like `scikit-learn` and `Optuna`
+- 🧠 Studying **Agentic AI** at IIT Mandi (Summer 2026) 
+- 🔍 Built **datacheck** — open-source Python CLI tool for dataset quality ✅
+- 🤖 Built **DataChat** — AI-powered dataset analyzer ✅
+- 📖 Learning how to contribute to scikit-learn and Optuna
 - 🎯 Goal: First open-source PR merged before October 2026
 
 ## Skills & Tools
 
 languages  = Python
 ml libs    = NumPy, Pandas, scikit-learn  
-currently learning = PyTorch, LangChain, Open Source workflows
+ai tools   = LangChain, Groq API, Streamlit
+currently learning = PyTorch,  Open Source workflows
 tools      = Git, GitHub, VS Code, Jupyter
 
 ## Projects
 
-Dataset Quality Checker *(in progress)* - CLI tool to audit any dataset for missing values, imbalance, outliers & more (Python, Pandas, Rich)
-🤖 Agentic AI Tool *(IIT Mandi coursework)*- Single tool agent built during summer program
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 [DataChat](https://github.com/vanshikanehra-hash/datachat) | Chat with any CSV dataset using AI | Python, Groq, Streamlit |
+| 🔍 [datacheck](https://github.com/vanshikanehra-hash/datacheck) | CLI tool to audit datasets for ML | Python, Pandas |
+| 🛠️ [single-tool-agent](https://github.com/vanshikanehra-hash/single-tool-agent) | Agentic AI web search tool | Python, LangChain, Groq |
 
 ## A bit about me
 
@@ -33,9 +38,9 @@ I’m a Data Science student who realized early that coursework alone won’t cu
 so I started building and contributing to things that actually exist in the real world.
 I don’t have all the answers yet, but I show up, I ask questions, and I ship.
 
-
 ## Let’s connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-vanshikanehra--hash-black?style=flat&logo=github)](https://github.com/vanshikanehra-hash)
 
 > 📬 Open to connecting with GSoC mentors, open-source contributors, and anyone working in ML.
+
