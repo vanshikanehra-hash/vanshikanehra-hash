@@ -24,6 +24,7 @@ ml_libs    = ["NumPy", "Pandas", "scikit-learn"]
 ai_tools   = ["LangChain", "Groq API", "Streamlit"]
 tools      = ["Git", "GitHub", "VS Code", "Jupyter"]
 currently_learning = ["PyTorch", "Open Source workflows"]
+```
 
 ## Projects
 
