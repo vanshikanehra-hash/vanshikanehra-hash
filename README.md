@@ -13,6 +13,7 @@ Right now I’m learning by doing — building real tools, understanding codebas
 - 🧠 Studying **Agentic AI** at IIT Mandi (Summer 2026) 
 - 🔍 Built **datacheck** — open-source Python CLI tool for dataset quality ✅
 - 🤖 Built **DataChat** — AI-powered dataset analyzer ✅
+- 🎬 Built RecoBot — fine-tuned LLM for movie/book recommendations on GPU ✅
 - 📖 Learning how to contribute to scikit-learn and Optuna
 - 🎯 Goal: First open-source PR merged before October 2026
 
@@ -22,6 +23,8 @@ Right now I’m learning by doing — building real tools, understanding codebas
 languages  = ["Python"]
 ml_libs    = ["NumPy", "Pandas", "scikit-learn"]
 ai_tools   = ["LangChain", "Groq API", "Streamlit"]
+ml_frameworks = ["HuggingFace Transformers", "PyTorch (learning)"]
+gpu_experience = ["NVIDIA T4 GPU via Google Colab", "LLM fine-tuning"]
 tools      = ["Git", "GitHub", "VS Code", "Jupyter"]
 currently_learning = ["PyTorch", "Open Source workflows"]
 ```
@@ -32,6 +35,7 @@ currently_learning = ["PyTorch", "Open Source workflows"]
 |---|---|---|
 | 🤖 [DataChat](https://github.com/vanshikanehra-hash/datachat) | Chat with any CSV dataset using AI | Python, Groq, Streamlit |
 | 🔍 [datacheck](https://github.com/vanshikanehra-hash/datacheck) | CLI tool to audit datasets for ML | Python, Pandas |
+| 🎬 [RecoBot](https://github.com/vanshikanehra-hash/RecoBot) | AI movie & book recommendation bot | Python, Groq, HuggingFace |
 | 🛠️ [single-tool-agent](https://github.com/vanshikanehra-hash/single-tool-agent) | Agentic AI web search tool | Python, LangChain, Groq |
 
 ## A bit about me
